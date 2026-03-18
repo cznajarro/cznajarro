@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cznajarro.cznajarro" />
 
-## Hi there 👋
+Seattle-based entry level software developer
 
 <!--
 **cznajarro/cznajarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
