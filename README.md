@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cznajarro.cznajarro" />
 
-Seattle-based entry level software developer
+## Hello! I'm Carlos
+Seattle-based developer
 
+**Skills:** Python · pandas · matplotlib · JavaScript  
 <!--
 **cznajarro/cznajarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
